@@ -2,3 +2,32 @@
 	width: 100px;
 	height: auto;
 }
+.textarea {
+    padding: 0 50px 0 50px;
+}
+
+.textarea-comment {
+    display: block;
+    width: 100%;
+    margin: 0 auto;
+    color: #3faa3f;
+    font-family: 'Montserrat';
+    padding: 0;
+    font-size: 13px;
+    font-weight: 500;
+    border: 1px solid #3faa3f;
+    border-radius: 4px;
+    background-color: #FFFFFF;
+    outline: none;
+    padding: 1em 50px 0 50px;
+    box-shadow: 0 5px 30px rgba(255, 255, 255, 0.1);
+}
+.pry-color {
+	color: #3faa3f !important;
+}
+.h-auto {
+	height: auto !important;
+}
+.fw-600 {
+	font-weight: 600 !important;
+}
